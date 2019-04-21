@@ -1,0 +1,11 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\bin\Debug\5_TextBox.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\bin\Debug\5_TextBox.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\MainWindow.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\MainWindow.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\App.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\5_TextBox_MarkupCompile.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\5_TextBox.g.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\_5_TextBox.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\5_TextBox.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\5_TextBox.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\2_Textblock\5_TextBox\obj\x86\Debug\5_TextBox.pdb

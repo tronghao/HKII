@@ -1,0 +1,17 @@
+﻿Build started 3/19/2018 9:31:11 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C\NHAP\NHAP\NHAP\NHAP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\NHAP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt nhap1.cpp
+         nhap1.cpp
+     1>e:\goc hoc tap\cong nghe thong tin\hkii\ngon ngu lap trinh\c\nhap\nhap\nhap\nhap1.cpp(11): warning C4091: 'typedef ' : ignored on left of 'SV' when no variable is declared
+     1>e:\goc hoc tap\cong nghe thong tin\hkii\ngon ngu lap trinh\c\nhap\nhap\nhap\nhap1.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\hkii\ngon ngu lap trinh\c\nhap\nhap\nhap\nhap1.cpp(35): error C2660: 'xuat' : function does not take 2 arguments
+     1>e:\goc hoc tap\cong nghe thong tin\hkii\ngon ngu lap trinh\c\nhap\nhap\nhap\nhap1.cpp(45): error C3861: 'strcmp': identifier not found
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C\NHAP\NHAP\NHAP\NHAP.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.75

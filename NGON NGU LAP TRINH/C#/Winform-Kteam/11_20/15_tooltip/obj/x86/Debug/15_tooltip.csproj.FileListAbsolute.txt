@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\bin\Debug\15_tooltip.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\bin\Debug\15_tooltip.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\obj\x86\Debug\_15_tooltip.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\obj\x86\Debug\_15_tooltip.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\obj\x86\Debug\15_tooltip.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\obj\x86\Debug\15_tooltip.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\15_tooltip\obj\x86\Debug\15_tooltip.pdb

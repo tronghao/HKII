@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\bin\Debug\18_Notifyicon.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\bin\Debug\18_Notifyicon.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\obj\x86\Debug\_18_Notifyicon.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\obj\x86\Debug\_18_Notifyicon.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\obj\x86\Debug\18_Notifyicon.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\obj\x86\Debug\18_Notifyicon.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\11_20\18_Notifyicon\obj\x86\Debug\18_Notifyicon.pdb

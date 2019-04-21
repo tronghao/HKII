@@ -1,0 +1,4 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Bai_Tap_C_Sharp\bai1\bin\Debug\bai1.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Bai_Tap_C_Sharp\bai1\bin\Debug\bai1.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Bai_Tap_C_Sharp\bai1\obj\x86\Debug\bai1.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Bai_Tap_C_Sharp\bai1\obj\x86\Debug\bai1.pdb

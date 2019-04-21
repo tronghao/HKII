@@ -1,0 +1,11 @@
+﻿<Window x:Class="_5_TextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="txbl" VerticalAlignment="Top"></TextBlock>
+        <TextBox x:Name="txb" VerticalAlignment="Center"></TextBox>
+        <Button x:Name="btn" VerticalAlignment="Bottom" Content="click" FontSize="15" Click="btn_Click"></Button>
+        
+    </Grid>
+</Window>

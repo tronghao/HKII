@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\bin\Debug\calender.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\bin\Debug\calender.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\obj\x86\Debug\calender.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\obj\x86\Debug\calender.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\obj\x86\Debug\calender.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\obj\x86\Debug\calender.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calender\calender\obj\x86\Debug\calender.pdb

@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\bin\Debug\nam_Am_Lich.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\bin\Debug\nam_Am_Lich.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\obj\x86\Debug\nam_Am_Lich.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\obj\x86\Debug\nam_Am_Lich.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\obj\x86\Debug\nam_Am_Lich.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\obj\x86\Debug\nam_Am_Lich.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\nam_Am_Lich\obj\x86\Debug\nam_Am_Lich.pdb

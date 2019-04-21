@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\bin\Debug\ung_dung_phan_mem.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\bin\Debug\ung_dung_phan_mem.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\ung_dung_phan_mem\obj\x86\Debug\ung_dung_phan_mem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\bin\Debug\25_29_Listview.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\bin\Debug\25_29_Listview.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\MainWindow.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\MainWindow.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\App.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\25_29_Listview_MarkupCompile.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\25_29_Listview.g.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\_25_29_Listview.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\25_29_Listview.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\25_29_Listview.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\25_29_Listview\obj\x86\Debug\25_29_Listview.pdb

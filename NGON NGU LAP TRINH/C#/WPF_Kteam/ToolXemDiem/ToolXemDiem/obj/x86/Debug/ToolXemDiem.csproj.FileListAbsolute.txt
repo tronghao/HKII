@@ -1,0 +1,14 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\bin\Debug\ToolXemDiem.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\bin\Debug\ToolXemDiem.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\bin\Debug\WebDriver.dll
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\bin\Debug\WebDriver.xml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\MainWindow.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\MainWindow.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\App.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem_MarkupCompile.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.g.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\ToolXemDiem\ToolXemDiem\obj\x86\Debug\ToolXemDiem.csprojResolveAssemblyReference.cache

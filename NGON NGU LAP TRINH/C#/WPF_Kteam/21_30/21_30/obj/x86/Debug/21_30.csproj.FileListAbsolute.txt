@@ -1,0 +1,13 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\bin\Debug\21_30.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\bin\Debug\21_30.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\MainWindow.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\MainWindow.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\App.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\21_30_MarkupCompile.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\21_30.g.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\_21_30.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\21_30.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\21_30.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\21_30.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\App.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\obj\x86\Debug\resource.baml

@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\bin\Debug\calculator.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\bin\Debug\calculator.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache

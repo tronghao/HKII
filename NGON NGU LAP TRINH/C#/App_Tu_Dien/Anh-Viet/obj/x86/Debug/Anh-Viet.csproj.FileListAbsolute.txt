@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\bin\Debug\Anh-Viet.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\bin\Debug\Anh-Viet.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh_Viet.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh_Viet.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh-Viet.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh-Viet.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh-Viet.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\App_Tu_Dien\Anh-Viet\obj\x86\Debug\Anh-Viet.csprojResolveAssemblyReference.cache

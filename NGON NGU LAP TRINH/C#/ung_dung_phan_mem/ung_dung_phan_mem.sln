@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ung_dung_phan_mem", "ung_dung_phan_mem\ung_dung_phan_mem.csproj", "{20CF6FDB-D80F-4C72-B552-C73CEF07E948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gio_ngu", "gio_ngu\gio_ngu.csproj", "{2CA42A44-E2E4-4EBE-9742-6E4BDCEDFE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nam_Am_Lich", "nam_Am_Lich\nam_Am_Lich.csproj", "{CAB950C0-41FA-48D6-8EB6-A57C79C3313D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CF6FDB-D80F-4C72-B552-C73CEF07E948}.Debug|x86.ActiveCfg = Debug|x86
+		{20CF6FDB-D80F-4C72-B552-C73CEF07E948}.Debug|x86.Build.0 = Debug|x86
+		{20CF6FDB-D80F-4C72-B552-C73CEF07E948}.Release|x86.ActiveCfg = Release|x86
+		{20CF6FDB-D80F-4C72-B552-C73CEF07E948}.Release|x86.Build.0 = Release|x86
+		{2CA42A44-E2E4-4EBE-9742-6E4BDCEDFE11}.Debug|x86.ActiveCfg = Debug|x86
+		{2CA42A44-E2E4-4EBE-9742-6E4BDCEDFE11}.Debug|x86.Build.0 = Debug|x86
+		{2CA42A44-E2E4-4EBE-9742-6E4BDCEDFE11}.Release|x86.ActiveCfg = Release|x86
+		{2CA42A44-E2E4-4EBE-9742-6E4BDCEDFE11}.Release|x86.Build.0 = Release|x86
+		{CAB950C0-41FA-48D6-8EB6-A57C79C3313D}.Debug|x86.ActiveCfg = Debug|x86
+		{CAB950C0-41FA-48D6-8EB6-A57C79C3313D}.Debug|x86.Build.0 = Debug|x86
+		{CAB950C0-41FA-48D6-8EB6-A57C79C3313D}.Release|x86.ActiveCfg = Release|x86
+		{CAB950C0-41FA-48D6-8EB6-A57C79C3313D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

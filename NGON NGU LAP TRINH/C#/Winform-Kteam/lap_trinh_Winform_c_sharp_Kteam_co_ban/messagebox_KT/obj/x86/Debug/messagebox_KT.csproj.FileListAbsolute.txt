@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\bin\Debug\messagebox_KT.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\bin\Debug\messagebox_KT.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\obj\x86\Debug\messagebox_KT.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\obj\x86\Debug\messagebox_KT.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\obj\x86\Debug\messagebox_KT.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\obj\x86\Debug\messagebox_KT.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\messagebox_KT\obj\x86\Debug\messagebox_KT.pdb

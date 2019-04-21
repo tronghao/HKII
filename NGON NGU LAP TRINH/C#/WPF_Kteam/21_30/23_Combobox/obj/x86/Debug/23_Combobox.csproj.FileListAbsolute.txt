@@ -1,0 +1,11 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\MainWindow.baml
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\MainWindow.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\App.g.cs
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\23_Combobox_MarkupCompile.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\23_Combobox.g.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\_23_Combobox.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\23_Combobox.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\bin\Debug\23_Combobox.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\bin\Debug\23_Combobox.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\23_Combobox.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\23_Combobox\obj\x86\Debug\23_Combobox.pdb

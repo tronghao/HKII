@@ -1,0 +1,4 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien_WEB\bin\Debug\Sinh_Vien_WEB.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien_WEB\bin\Debug\Sinh_Vien_WEB.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien_WEB\obj\x86\Debug\Sinh_Vien_WEB.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien_WEB\obj\x86\Debug\Sinh_Vien_WEB.pdb

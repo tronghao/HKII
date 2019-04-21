@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\obj\x86\Debug\_25_linq.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\obj\x86\Debug\_25_linq.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\obj\x86\Debug\25_linq.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\bin\Debug\25_linq.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\bin\Debug\25_linq.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\obj\x86\Debug\25_linq.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\25_linq\obj\x86\Debug\25_linq.pdb

@@ -1,0 +1,9 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\bin\Debug\Kéo_Bua_Bao.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\bin\Debug\Kéo_Bua_Bao.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.csprojResolveAssemblyReference.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Kéo_Bua_Bao\Kéo_Bua_Bao\obj\x86\Debug\Kéo_Bua_Bao.Form2.resources

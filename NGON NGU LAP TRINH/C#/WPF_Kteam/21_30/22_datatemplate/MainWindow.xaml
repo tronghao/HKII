@@ -1,0 +1,21 @@
+﻿<Window x:Class="_22_datatemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <StackPanel.Resources>
+                <ControlTemplate x:Key="template">
+                    <StackPanel>
+                        <Image Width="50"  Source="E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\WPF_Kteam\21_30\21_30\04.jpg"></Image>
+                        <TextBlock Text="{Binding}"></TextBlock>
+                    </StackPanel>                  
+                </ControlTemplate>
+            </StackPanel.Resources>
+
+            <Button x:Name="btn1" Template="{StaticResource ResourceKey=template}"></Button>
+            <Button x:Name="btn2" Template="{StaticResource ResourceKey=template}"></Button>
+            <Button x:Name="btn3" Click="btn3_Click" Content="123456"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

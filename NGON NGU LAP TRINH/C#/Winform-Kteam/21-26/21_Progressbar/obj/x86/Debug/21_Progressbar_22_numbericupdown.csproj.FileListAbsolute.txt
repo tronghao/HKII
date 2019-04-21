@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\obj\x86\Debug\21_Progressbar.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\obj\x86\Debug\21_Progressbar.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\bin\Debug\21_Progressbar.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\bin\Debug\21_Progressbar.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\obj\x86\Debug\_21_Progressbar.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\obj\x86\Debug\_21_Progressbar.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21_Progressbar\obj\x86\Debug\21_Progressbar_22_numbericupdown.csproj.GenerateResource.Cache

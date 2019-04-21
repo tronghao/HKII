@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\bin\Debug\gio_ngu.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\bin\Debug\gio_ngu.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\ung_dung_phan_mem\gio_ngu\obj\x86\Debug\gio_ngu.csprojResolveAssemblyReference.cache

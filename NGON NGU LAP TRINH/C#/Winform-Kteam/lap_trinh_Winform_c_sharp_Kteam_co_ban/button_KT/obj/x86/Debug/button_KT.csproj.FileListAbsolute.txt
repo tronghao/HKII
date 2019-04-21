@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\bin\Debug\button_KT.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\bin\Debug\button_KT.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\obj\x86\Debug\button_KT.button1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\obj\x86\Debug\button_KT.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\obj\x86\Debug\button_KT.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\obj\x86\Debug\button_KT.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\button_KT\obj\x86\Debug\button_KT.pdb

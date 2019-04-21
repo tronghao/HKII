@@ -1,0 +1,5 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien\bin\Debug\Sinh_Vien.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien\bin\Debug\Sinh_Vien.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien\obj\x86\Debug\Sinh_Vien.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien\obj\x86\Debug\Sinh_Vien.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\Sinh_Vien\obj\x86\Debug\Sinh_Vien.csprojResolveAssemblyReference.cache

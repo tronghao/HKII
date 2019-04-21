@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Key>CD-ROM</Key>
+      <Meaning>compact disk - Read Only Memory</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>TFT</Key>
+      <Meaning>Thin Film Transistor</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>MB</Key>
+      <Meaning>Megabyte</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>GHz</Key>
+      <Meaning>Gigaherts</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>FSB</Key>
+      <Meaning>Front-side bus</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>SD-RAM</Key>
+      <Meaning>Synchronous dynamic random access memory</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>XGA</Key>
+      <Meaning>Extended graphics array</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>RAM</Key>
+      <Meaning>Random Access Memory</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>ATM</Key>
+      <Meaning>Automatic Teller Machine</Meaning>
+      <Explaination />
+    </DictionaryData>
+    <DictionaryData>
+      <Key>PDA</Key>
+      <Meaning>Personal digital assistant</Meaning>
+      <Explaination />
+    </DictionaryData>
+  </Items>
+</DictionaryItem>

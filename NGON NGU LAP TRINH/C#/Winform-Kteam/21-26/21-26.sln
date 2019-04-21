@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_process", "21-26\23_process.csproj", "{DE454ADB-EBC9-4A61-8516-8188877AB16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Progressbar_22_numbericupdown", "21_Progressbar\21_Progressbar_22_numbericupdown.csproj", "{4DDD524E-DDEB-4530-9395-953BACE8A197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_DateTimePicker", "24_DateTimePicker'\24_DateTimePicker.csproj", "{83D2E919-9BCD-4562-8FC9-BD739802E4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_linq", "25_linq\25_linq.csproj", "{6AA85A34-387F-438D-829F-888849DB071A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE454ADB-EBC9-4A61-8516-8188877AB16B}.Debug|x86.ActiveCfg = Debug|x86
+		{DE454ADB-EBC9-4A61-8516-8188877AB16B}.Debug|x86.Build.0 = Debug|x86
+		{DE454ADB-EBC9-4A61-8516-8188877AB16B}.Release|x86.ActiveCfg = Release|x86
+		{DE454ADB-EBC9-4A61-8516-8188877AB16B}.Release|x86.Build.0 = Release|x86
+		{4DDD524E-DDEB-4530-9395-953BACE8A197}.Debug|x86.ActiveCfg = Debug|x86
+		{4DDD524E-DDEB-4530-9395-953BACE8A197}.Debug|x86.Build.0 = Debug|x86
+		{4DDD524E-DDEB-4530-9395-953BACE8A197}.Release|x86.ActiveCfg = Release|x86
+		{4DDD524E-DDEB-4530-9395-953BACE8A197}.Release|x86.Build.0 = Release|x86
+		{83D2E919-9BCD-4562-8FC9-BD739802E4DC}.Debug|x86.ActiveCfg = Debug|x86
+		{83D2E919-9BCD-4562-8FC9-BD739802E4DC}.Debug|x86.Build.0 = Debug|x86
+		{83D2E919-9BCD-4562-8FC9-BD739802E4DC}.Release|x86.ActiveCfg = Release|x86
+		{83D2E919-9BCD-4562-8FC9-BD739802E4DC}.Release|x86.Build.0 = Release|x86
+		{6AA85A34-387F-438D-829F-888849DB071A}.Debug|x86.ActiveCfg = Debug|x86
+		{6AA85A34-387F-438D-829F-888849DB071A}.Debug|x86.Build.0 = Debug|x86
+		{6AA85A34-387F-438D-829F-888849DB071A}.Release|x86.ActiveCfg = Release|x86
+		{6AA85A34-387F-438D-829F-888849DB071A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

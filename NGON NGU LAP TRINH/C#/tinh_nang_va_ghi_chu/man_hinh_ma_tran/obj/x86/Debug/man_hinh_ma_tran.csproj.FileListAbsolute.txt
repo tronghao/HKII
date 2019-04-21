@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\man_hinh_ma_tran\man_hinh_ma_tran\bin\Debug\man_hinh_ma_tran.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\man_hinh_ma_tran\man_hinh_ma_tran\bin\Debug\man_hinh_ma_tran.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\man_hinh_ma_tran\man_hinh_ma_tran\obj\x86\Debug\man_hinh_ma_tran.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\man_hinh_ma_tran\man_hinh_ma_tran\obj\x86\Debug\man_hinh_ma_tran.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\man_hinh_ma_tran\obj\x86\Debug\man_hinh_ma_tran.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\man_hinh_ma_tran\obj\x86\Debug\man_hinh_ma_tran.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\man_hinh_ma_tran\bin\Debug\man_hinh_ma_tran.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\man_hinh_ma_tran\bin\Debug\man_hinh_ma_tran.pdb

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lable_KT", "lap_trinh_Winform_c_sharp_Kteam_co_ban\lable_KT.csproj", "{AC16779B-9383-4ED8-891B-895041F9E73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "button_KT", "button_KT\button_KT.csproj", "{FC1209DE-FE7D-4FC8-9717-2F78FCD65E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textBox_KT", "textBox_KT\textBox_KT.csproj", "{9EAAEB0E-A3E8-4547-A3EF-693AC8841207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox_KT", "checkbox_KT\checkbox_KT.csproj", "{D2501447-848C-44A6-865E-0AEF59B21EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messagebox_KT", "messagebox_KT\messagebox_KT.csproj", "{BFF84A45-C963-4862-90A3-953A0EB60743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "panel_KT", "panel_KT\panel_KT.csproj", "{4E13B969-0969-4453-B396-150839586840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radiobutton_KT", "radiobutton_KT\radiobutton_KT.csproj", "{BCF1205B-1456-47C4-95A4-7BDA7887F7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combobox_KT", "combobox_KT\combobox_KT.csproj", "{328FAD80-32C4-4840-B4F2-F911A05AFCBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC16779B-9383-4ED8-891B-895041F9E73C}.Debug|x86.ActiveCfg = Debug|x86
+		{AC16779B-9383-4ED8-891B-895041F9E73C}.Debug|x86.Build.0 = Debug|x86
+		{AC16779B-9383-4ED8-891B-895041F9E73C}.Release|x86.ActiveCfg = Release|x86
+		{AC16779B-9383-4ED8-891B-895041F9E73C}.Release|x86.Build.0 = Release|x86
+		{FC1209DE-FE7D-4FC8-9717-2F78FCD65E31}.Debug|x86.ActiveCfg = Debug|x86
+		{FC1209DE-FE7D-4FC8-9717-2F78FCD65E31}.Debug|x86.Build.0 = Debug|x86
+		{FC1209DE-FE7D-4FC8-9717-2F78FCD65E31}.Release|x86.ActiveCfg = Release|x86
+		{FC1209DE-FE7D-4FC8-9717-2F78FCD65E31}.Release|x86.Build.0 = Release|x86
+		{9EAAEB0E-A3E8-4547-A3EF-693AC8841207}.Debug|x86.ActiveCfg = Debug|x86
+		{9EAAEB0E-A3E8-4547-A3EF-693AC8841207}.Debug|x86.Build.0 = Debug|x86
+		{9EAAEB0E-A3E8-4547-A3EF-693AC8841207}.Release|x86.ActiveCfg = Release|x86
+		{9EAAEB0E-A3E8-4547-A3EF-693AC8841207}.Release|x86.Build.0 = Release|x86
+		{D2501447-848C-44A6-865E-0AEF59B21EC2}.Debug|x86.ActiveCfg = Debug|x86
+		{D2501447-848C-44A6-865E-0AEF59B21EC2}.Debug|x86.Build.0 = Debug|x86
+		{D2501447-848C-44A6-865E-0AEF59B21EC2}.Release|x86.ActiveCfg = Release|x86
+		{D2501447-848C-44A6-865E-0AEF59B21EC2}.Release|x86.Build.0 = Release|x86
+		{BFF84A45-C963-4862-90A3-953A0EB60743}.Debug|x86.ActiveCfg = Debug|x86
+		{BFF84A45-C963-4862-90A3-953A0EB60743}.Debug|x86.Build.0 = Debug|x86
+		{BFF84A45-C963-4862-90A3-953A0EB60743}.Release|x86.ActiveCfg = Release|x86
+		{BFF84A45-C963-4862-90A3-953A0EB60743}.Release|x86.Build.0 = Release|x86
+		{4E13B969-0969-4453-B396-150839586840}.Debug|x86.ActiveCfg = Debug|x86
+		{4E13B969-0969-4453-B396-150839586840}.Debug|x86.Build.0 = Debug|x86
+		{4E13B969-0969-4453-B396-150839586840}.Release|x86.ActiveCfg = Release|x86
+		{4E13B969-0969-4453-B396-150839586840}.Release|x86.Build.0 = Release|x86
+		{BCF1205B-1456-47C4-95A4-7BDA7887F7F5}.Debug|x86.ActiveCfg = Debug|x86
+		{BCF1205B-1456-47C4-95A4-7BDA7887F7F5}.Debug|x86.Build.0 = Debug|x86
+		{BCF1205B-1456-47C4-95A4-7BDA7887F7F5}.Release|x86.ActiveCfg = Release|x86
+		{BCF1205B-1456-47C4-95A4-7BDA7887F7F5}.Release|x86.Build.0 = Release|x86
+		{328FAD80-32C4-4840-B4F2-F911A05AFCBD}.Debug|x86.ActiveCfg = Debug|x86
+		{328FAD80-32C4-4840-B4F2-F911A05AFCBD}.Debug|x86.Build.0 = Debug|x86
+		{328FAD80-32C4-4840-B4F2-F911A05AFCBD}.Release|x86.ActiveCfg = Release|x86
+		{328FAD80-32C4-4840-B4F2-F911A05AFCBD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\bin\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\bin\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lable_KT.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\lap_trinh_Winform_c_sharp_Kteam_co_ban\lap_trinh_Winform_c_sharp_Kteam_co_ban\obj\x86\Debug\lap_trinh_Winform_c_sharp_Kteam_co_ban.Form2.resources

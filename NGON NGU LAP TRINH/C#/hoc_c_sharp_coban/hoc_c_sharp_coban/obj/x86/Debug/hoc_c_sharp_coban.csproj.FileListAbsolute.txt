@@ -1,0 +1,4 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\hoc_c_sharp_coban\hoc_c_sharp_coban\bin\Debug\hoc_c_sharp_coban.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\hoc_c_sharp_coban\hoc_c_sharp_coban\bin\Debug\hoc_c_sharp_coban.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\hoc_c_sharp_coban\hoc_c_sharp_coban\obj\x86\Debug\hoc_c_sharp_coban.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\hoc_c_sharp_coban\hoc_c_sharp_coban\obj\x86\Debug\hoc_c_sharp_coban.pdb

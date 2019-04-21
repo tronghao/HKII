@@ -1,0 +1,4 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\nhap\bin\Debug\nhap.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\nhap\bin\Debug\nhap.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\nhap\obj\x86\Debug\nhap.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\tinh_nang_va_ghi_chu\nhap\obj\x86\Debug\nhap.pdb

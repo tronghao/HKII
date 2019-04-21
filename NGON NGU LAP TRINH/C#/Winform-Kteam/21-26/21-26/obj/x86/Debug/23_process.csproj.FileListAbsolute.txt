@@ -1,0 +1,7 @@
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\obj\x86\Debug\21-26.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\obj\x86\Debug\21-26.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\bin\Debug\21-26.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\bin\Debug\21-26.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\obj\x86\Debug\_21_26.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\obj\x86\Debug\_21_26.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKII\NGON NGU LAP TRINH\C#\Winform-Kteam\21-26\21-26\obj\x86\Debug\23_process.csproj.GenerateResource.Cache
